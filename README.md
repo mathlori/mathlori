@@ -1,4 +1,4 @@
-### **Hi! Welcome to my github! Here you can see some of my projects during my dev routine!** 
+### **Hi! Welcome to my github! Here you can see some of my projects in my routine!** 
 # 
 - 💻 Computer Science student in **Universidade Presbiteriana Mackenzie**.
 - ☁ Currently studying **Cloud Computing in AWS**!
