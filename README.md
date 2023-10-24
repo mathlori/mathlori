@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @mathlori
 -  I’m currently learning Cloud Computing in AWS
 
 
