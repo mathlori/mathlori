@@ -1,4 +1,4 @@
-### **Hi! Welcome to my github! Here you can see some of my projects in my routine!** 
+### **Opa! Que tal dar uma olhada em alguns códigos meus?** 
 # 
 - 💻 Estudante de Ciência da Computação na **Universidade Presbiteriana Mackenzie**.
 - ☁ Estudando sobre **Inteligência Artificial em Python**!
