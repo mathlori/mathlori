@@ -1,10 +1,10 @@
 ### **Hi! Welcome to my github! Here you can see some of my projects in my routine!** 
 # 
-- 💻 Computer Science student in **Universidade Presbiteriana Mackenzie**.
-- ☁ Currently studying **AI in Python!**!
-- 🎹Passionate about music!
+- 💻 Estudante de Ciência da Computação na **Universidade Presbiteriana Mackenzie**.
+- ☁ Estudando sobre **Inteligência Artificial em Python**!
+- 🎹Apaixonado por música!
 
-- 🧠 Some of my **hard skills**: 
+- 🧠 **Alguns dos meus conhecimentos**: 
 <div style = "display: inLine">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -20,7 +20,7 @@
 </div>
 
   ##
-  - Other medias you can find me: 📱
+  - **Outros contatos**: 📱
 <div style = "display: inLine">
 <a href="https://www.linkedin.com/in/matheus-de-andrade-lourenço-bba5561bb/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/math.louren?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
