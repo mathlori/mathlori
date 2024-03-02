@@ -1,4 +1,4 @@
-### **Opa, bem vindo! Aqui você verá alguns dos meus projetos do dia a dia! **
+### **Opa, bem vindo! Aqui você verá alguns dos meus projetos do dia a dia!**
 # 
 - 💻 Sou estudante de Ciência da Computação na **Universidade Presbiteriana Mackenzie**.
 - ☁ Estou estudando sobre **Inteligência Artificial em Python**!
