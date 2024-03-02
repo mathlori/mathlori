@@ -1,8 +1,8 @@
-### **Opa! Que tal dar uma olhada em alguns códigos meus?** 
+### **Opa, bem vindo! Aqui você verá alguns dos meus projetos do dia a dia! **
 # 
-- 💻 Estudante de Ciência da Computação na **Universidade Presbiteriana Mackenzie**.
-- ☁ Estudando sobre **Inteligência Artificial em Python**!
-- 🎹Apaixonado por música!
+- 💻 Sou estudante de Ciência da Computação na **Universidade Presbiteriana Mackenzie**.
+- ☁ Estou estudando sobre **Inteligência Artificial em Python**!
+- 🎹 Sou apaixonado por música!
 
 - 🧠 **Alguns dos meus conhecimentos**: 
 <div style = "display: inLine">
